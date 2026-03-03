@@ -1,6 +1,6 @@
 # Hi, I'm Nathan 👋
 
-I'm a full stack software engineer based in Seattle. I recently built [Vizier](https://vizier-platform.com), an open source CLI that deploys full stack apps to AWS and automates redeployment via GitHub Actions.
+I'm a full stack software engineer. I recently built [Vizier](https://vizier-platform.com), an open source CLI that deploys full stack apps to AWS and automates redeployment via GitHub Actions.
 
 ## Contact
 
