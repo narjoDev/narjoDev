@@ -5,4 +5,4 @@ I'm a full stack software engineer. I recently built [Vizier](https://vizier-pla
 ## Contact
 
 - LinkedIn: [linkedin.com/in/narjo](https://linkedin.com/in/narjo/)
-- Email: nathanj.th@gmail.com
+- Email: dev@narjo.dev
